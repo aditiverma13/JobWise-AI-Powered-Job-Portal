@@ -1,1 +1,1 @@
-##JOBWISE-AI-POWERED-JOB-PORTAL
+Full-stack job portal with end-to-end CRUD using MERN stack. Features JWT auth, role-based access, dynamic admin dashboard, resume parsing, and NLP-based job recommendations. Enhanced with React Query, MongoDB aggregation, lazy loading & soft delete.
